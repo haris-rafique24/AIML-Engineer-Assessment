@@ -11,7 +11,7 @@ Make sure to place the .pth files in the same directory as the rest of the pytho
 
 Note: With the code files there is a file called "ML_AI_Engineer_Assessment.ipynb". This file was used for the sake of training the baseline and stronger models with a GPU for faster training time. This is a supplementary file and has the same code as the rest of the python files.
 
-Note: steps for running the model and testing images on the web app frontend are given in the video link attached here: https://drive.google.com/file/d/1c48--SXOJbHidtUcPux17lKJP72Bx6Pr/view?usp=sharing
-
+Note: steps for running the model and testing images on the web app frontend are given in the video link attached here: 
+https://drive.google.com/file/d/1FJgJVQpYUvYuzbKrIAGVr3WzwGnxU9WT/view?usp=sharing
 
 Happy testing!
